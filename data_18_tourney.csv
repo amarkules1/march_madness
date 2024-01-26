@@ -1,0 +1,141 @@
+date,team_1,t1_conf,team_2,t1_score,t2_score,win_loss
+3/17/18,Alabama,SEC,Villanova,58,81,L
+3/17/18,Villanova,BE,Alabama,81,58,W
+3/15/18,Alabama,SEC,Virginia Tech,86,83,W
+3/15/18,Virginia Tech,ACC,Alabama,83,86,L
+3/16/18,Bucknell,Pat,Michigan St.,78,82,L
+3/16/18,Michigan St.,B10,Bucknell,82,78,W
+3/15/18,Arizona,P12,Buffalo,68,89,L
+3/15/18,Buffalo,MAC,Arizona,89,68,W
+3/17/18,Buffalo,MAC,Kentucky,75,95,L
+3/17/18,Kentucky,SEC,Buffalo,95,75,W
+3/16/18,Arkansas,SEC,Butler,62,79,L
+3/16/18,Butler,BE,Arkansas,79,62,W
+3/18/18,Butler,BE,Purdue,73,76,L
+3/18/18,Purdue,B10,Butler,76,73,W
+3/16/18,Cal St. Fullerton,BW,Purdue,48,74,L
+3/16/18,Purdue,B10,Cal St. Fullerton,74,48,W
+3/18/18,Auburn,SEC,Clemson,53,84,L
+3/18/18,Clemson,ACC,Auburn,84,53,W
+3/23/18,Clemson,ACC,Kansas,76,80,L
+3/23/18,Kansas,B12,Clemson,80,76,W
+3/16/18,Auburn,SEC,College of Charleston,62,58,W
+3/16/18,College of Charleston,CAA,Auburn,58,62,L
+3/15/18,Davidson,A10,Kentucky,73,78,L
+3/15/18,Kentucky,SEC,Davidson,78,73,W
+3/25/18,Duke,ACC,Kansas,81,85,L
+3/25/18,Kansas,B12,Duke,85,81,W
+3/22/18,Florida St.,ACC,Gonzaga,75,60,W
+3/22/18,Gonzaga,WCC,Florida St.,60,75,L
+3/24/18,Florida St.,ACC,Michigan,54,58,L
+3/24/18,Michigan,B10,Florida St.,58,54,W
+3/16/18,Florida St.,ACC,Missouri,67,54,W
+3/16/18,Missouri,SEC,Florida St.,54,67,L
+3/18/18,Florida St.,ACC,Xavier,75,70,W
+3/18/18,Xavier,BE,Florida St.,70,75,L
+3/17/18,Florida,SEC,Texas Tech,66,69,L
+3/17/18,Texas Tech,B12,Florida,69,66,W
+3/16/18,Cincinnati,Amer,Georgia St.,68,53,W
+3/16/18,Georgia St.,SB,Cincinnati,53,68,L
+3/17/18,Houston,Amer,Michigan,63,64,L
+3/17/18,Michigan,B10,Houston,64,63,W
+3/15/18,Duke,ACC,Iona,89,67,W
+3/15/18,Iona,MAAC,Duke,67,89,L
+3/16/18,Creighton,BE,Kansas St.,59,69,L
+3/16/18,Kansas St.,B12,Creighton,69,59,W
+3/22/18,Kansas St.,B12,Kentucky,61,58,W
+3/22/18,Kentucky,SEC,Kansas St.,58,61,L
+3/16/18,Lipscomb,ASun,North Carolina,66,84,L
+3/16/18,North Carolina,ACC,Lipscomb,84,66,W
+3/24/18,Kansas St.,B12,Loyola Chicago,62,78,L
+3/24/18,Loyola Chicago,MVC,Kansas St.,78,62,W
+3/15/18,Loyola Chicago,MVC,Miami FL,64,62,W
+3/15/18,Miami FL,ACC,Loyola Chicago,62,64,L
+3/31/18,Loyola Chicago,MVC,Michigan,57,69,L
+3/31/18,Michigan,B10,Loyola Chicago,69,57,W
+3/22/18,Loyola Chicago,MVC,Nevada,69,68,W
+3/22/18,Nevada,MWC,Loyola Chicago,68,69,L
+3/17/18,Loyola Chicago,MVC,Tennessee,63,62,W
+3/17/18,Tennessee,SEC,Loyola Chicago,62,63,L
+3/18/18,Marshall,CUSA,West Virginia,71,94,L
+3/18/18,West Virginia,B12,Marshall,94,71,W
+3/16/18,Marshall,CUSA,Wichita St.,81,75,W
+3/16/18,Wichita St.,Amer,Marshall,75,81,L
+4/2/18,Michigan,B10,Villanova,62,79,L
+4/2/18,Villanova,BE,Michigan,79,62,W
+3/15/18,Michigan,B10,Montana,61,47,W
+3/15/18,Montana,BSky,Michigan,47,61,L
+3/16/18,Murray St.,OVC,West Virginia,68,85,L
+3/16/18,West Virginia,B12,Murray St.,85,68,W
+3/18/18,Cincinnati,Amer,Nevada,73,75,L
+3/18/18,Nevada,MWC,Cincinnati,75,73,W
+3/16/18,Clemson,ACC,New Mexico St.,79,68,W
+3/16/18,New Mexico St.,WAC,Clemson,68,79,L
+3/15/18,North Carolina St.,ACC,Seton Hall,83,94,L
+3/15/18,Seton Hall,BE,North Carolina St.,94,83,W
+3/17/18,Gonzaga,WCC,Ohio St.,90,84,W
+3/17/18,Ohio St.,B10,Gonzaga,84,90,L
+3/15/18,Oklahoma,B12,Rhode Island,78,83,L
+3/15/18,Rhode Island,A10,Oklahoma,83,78,W
+3/27/18,Mississippi St.,SEC,Penn St.,60,75,L
+3/27/18,Penn St.,B10,Mississippi St.,75,60,W
+3/29/18,Penn St.,B10,Utah,82,66,W
+3/29/18,Utah,P12,Penn St.,66,82,L
+3/15/18,Kansas,B12,Penn,76,60,W
+3/15/18,Penn,Ivy,Kansas,60,76,L
+3/16/18,Providence,BE,Texas A&M,69,73,L
+3/16/18,Texas A&M,SEC,Providence,73,69,W
+3/13/18,LIU Brooklyn,NEC,Radford,61,71,L
+3/13/18,Radford,BSth,LIU Brooklyn,71,61,W
+3/15/18,Radford,BSth,Villanova,61,87,L
+3/15/18,Villanova,BE,Radford,87,61,W
+3/17/18,Duke,ACC,Rhode Island,87,62,W
+3/17/18,Rhode Island,A10,Duke,62,87,L
+3/15/18,Houston,Amer,San Diego St.,67,65,W
+3/15/18,San Diego St.,MWC,Houston,65,67,L
+3/17/18,Kansas,B12,Seton Hall,83,79,W
+3/17/18,Seton Hall,BE,Kansas,79,83,L
+3/15/18,Ohio St.,B10,South Dakota St.,81,73,W
+3/15/18,South Dakota St.,Sum,Ohio St.,73,81,L
+3/15/18,Florida,SEC,St. Bonaventure,77,62,W
+3/15/18,St. Bonaventure,A10,Florida,62,77,L
+3/15/18,Stephen F. Austin,Slnd,Texas Tech,60,70,L
+3/15/18,Texas Tech,B12,Stephen F. Austin,70,60,W
+3/14/18,Arizona St.,P12,Syracuse,56,60,L
+3/14/18,Syracuse,ACC,Arizona St.,60,56,W
+3/23/18,Duke,ACC,Syracuse,69,65,W
+3/23/18,Syracuse,ACC,Duke,65,69,L
+3/18/18,Michigan St.,B10,Syracuse,53,55,L
+3/18/18,Syracuse,ACC,Michigan St.,55,53,W
+3/16/18,Syracuse,ACC,TCU,57,52,W
+3/16/18,TCU,B12,Syracuse,52,57,L
+3/22/18,Michigan,B10,Texas A&M,99,72,W
+3/22/18,Texas A&M,SEC,Michigan,72,99,L
+3/18/18,North Carolina,ACC,Texas A&M,65,86,L
+3/18/18,Texas A&M,SEC,North Carolina,86,65,W
+3/14/18,North Carolina Central,MEAC,Texas Southern,46,64,L
+3/14/18,Texas Southern,SWAC,North Carolina Central,64,46,W
+3/16/18,Texas Southern,SWAC,Xavier,83,102,L
+3/16/18,Xavier,BE,Texas Southern,102,83,W
+3/23/18,Purdue,B10,Texas Tech,65,78,L
+3/23/18,Texas Tech,B12,Purdue,78,65,W
+3/25/18,Texas Tech,B12,Villanova,59,71,L
+3/25/18,Villanova,BE,Texas Tech,71,59,W
+3/16/18,Nevada,MWC,Texas,87,83,W
+3/16/18,Texas,B12,Nevada,83,87,L
+3/13/18,St. Bonaventure,A10,UCLA,65,58,W
+3/13/18,UCLA,P12,St. Bonaventure,58,65,L
+3/18/18,Kansas St.,B12,UMBC,50,43,W
+3/18/18,UMBC,AE,Kansas St.,43,50,L
+3/16/18,UMBC,AE,Virginia,74,54,W
+3/16/18,Virginia,ACC,UMBC,54,74,L
+3/15/18,Gonzaga,WCC,UNC Greensboro,68,64,W
+3/15/18,UNC Greensboro,SC,Gonzaga,64,68,L
+3/31/18,Kansas,B12,Villanova,79,95,L
+3/31/18,Villanova,BE,Kansas,95,79,W
+3/23/18,Villanova,BE,West Virginia,90,78,W
+3/23/18,West Virginia,B12,Villanova,78,90,L
+3/27/18,Utah,P12,Western Kentucky,69,64,W
+3/27/18,Western Kentucky,CUSA,Utah,64,69,L
+3/15/18,Tennessee,SEC,Wright St.,73,47,W
+3/15/18,Wright St.,Horz,Tennessee,47,73,L

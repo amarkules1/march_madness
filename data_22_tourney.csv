@@ -1,0 +1,171 @@
+date,team_1,t1_conf,team_2,t1_score,t2_score,win_loss
+3/21/22,Abilene Christian,WAC,Ohio,91,86,W
+3/21/22,Ohio,MAC,Abilene Christian,86,91,L
+3/20/22,Abilene Christian,WAC,Troy,82,70,W
+3/20/22,Troy,SB,Abilene Christian,70,82,L
+3/17/22,Akron,MAC,UCLA,53,57,L
+3/17/22,UCLA,P12,Akron,57,53,W
+3/26/22,Arkansas,SEC,Duke,69,78,L
+3/26/22,Duke,ACC,Arkansas,78,69,W
+3/24/22,Arkansas,SEC,Gonzaga,74,68,W
+3/24/22,Gonzaga,WCC,Arkansas,68,74,L
+3/17/22,Arkansas,SEC,Vermont,75,71,W
+3/17/22,Vermont,AE,Arkansas,71,75,L
+3/18/22,Auburn,SEC,Jacksonville St.,80,61,W
+3/18/22,Jacksonville St.,ASun,Auburn,61,80,L
+3/17/22,Baylor,B12,Norfolk St.,85,49,W
+3/17/22,Norfolk St.,MEAC,Baylor,49,85,L
+3/17/22,Boise St.,MWC,Memphis,53,64,L
+3/17/22,Memphis,Amer,Boise St.,64,53,W
+3/20/22,Boston University,Pat,UNC Greensboro,71,68,W
+3/20/22,UNC Greensboro,SC,Boston University,68,71,L
+3/16/22,Bryant,NEC,Wright St.,82,93,L
+3/16/22,Wright St.,Horz,Bryant,93,82,W
+3/19/22,Cal Baptist,WAC,Middle Tennessee,58,64,L
+3/19/22,Middle Tennessee,CUSA,Cal Baptist,64,58,W
+3/18/22,Cal St. Fullerton,BW,Duke,61,78,L
+3/18/22,Duke,ACC,Cal St. Fullerton,78,61,W
+3/18/22,Chattanooga,SC,Illinois,53,54,L
+3/18/22,Illinois,B10,Chattanooga,54,53,W
+3/18/22,Colgate,Pat,Wisconsin,60,67,L
+3/18/22,Wisconsin,B10,Colgate,67,60,W
+3/17/22,Colorado St.,MWC,Michigan,63,75,L
+3/17/22,Michigan,B10,Colorado St.,75,63,W
+3/17/22,Connecticut,BE,New Mexico St.,63,70,L
+3/17/22,New Mexico St.,WAC,Connecticut,70,63,W
+3/19/22,Creighton,BE,Kansas,72,79,L
+3/19/22,Kansas,B12,Creighton,79,72,W
+3/17/22,Creighton,BE,San Diego St.,72,69,W
+3/17/22,San Diego St.,MWC,Creighton,69,72,L
+3/18/22,Davidson,A10,Michigan St.,73,74,L
+3/18/22,Michigan St.,B10,Davidson,74,73,W
+3/18/22,Delaware,CAA,Villanova,60,80,L
+3/18/22,Villanova,BE,Delaware,80,60,W
+3/19/22,Drake,MVC,Fort Wayne,87,65,W
+3/19/22,Fort Wayne,Horz,Drake,65,87,L
+3/21/22,Drake,MVC,UNC Wilmington,75,76,L
+3/21/22,UNC Wilmington,CAA,Drake,76,75,W
+3/20/22,Florida Atlantic,CUSA,Northern Colorado,71,74,L
+3/20/22,Northern Colorado,BSky,Florida Atlantic,74,71,W
+3/17/22,Georgia St.,SB,Gonzaga,72,93,L
+3/17/22,Gonzaga,WCC,Georgia St.,93,72,W
+3/24/22,Arizona,P12,Houston,60,72,L
+3/24/22,Houston,Amer,Arizona,72,60,W
+3/20/22,Houston,Amer,Illinois,68,53,W
+3/20/22,Illinois,B10,Houston,53,68,L
+3/18/22,Houston,Amer,UAB,82,68,W
+3/18/22,UAB,CUSA,Houston,68,82,L
+3/26/22,Houston,Amer,Villanova,44,50,L
+3/26/22,Villanova,BE,Houston,50,44,W
+3/17/22,Indiana,B10,Saint Mary's,53,82,L
+3/17/22,Saint Mary's,WCC,Indiana,82,53,W
+3/15/22,Indiana,B10,Wyoming,66,58,W
+3/15/22,Wyoming,MWC,Indiana,58,66,L
+3/18/22,Iowa St.,B12,LSU,59,54,W
+3/18/22,LSU,SEC,Iowa St.,54,59,L
+3/25/22,Iowa St.,B12,Miami FL,56,70,L
+3/25/22,Miami FL,ACC,Iowa St.,70,56,W
+3/20/22,Iowa St.,B12,Wisconsin,54,49,W
+3/20/22,Wisconsin,B10,Iowa St.,49,54,L
+3/17/22,Iowa,B10,Richmond,63,67,L
+3/17/22,Richmond,A10,Iowa,67,63,W
+3/17/22,Kentucky,SEC,Saint Peter's,79,85,L
+3/17/22,Saint Peter's,MAAC,Kentucky,85,79,W
+3/17/22,Longwood,BSth,Tennessee,56,88,L
+3/17/22,Tennessee,SEC,Longwood,88,56,W
+3/18/22,Loyola Chicago,MVC,Ohio St.,41,54,L
+3/18/22,Ohio St.,B10,Loyola Chicago,54,41,W
+3/17/22,Marquette,BE,North Carolina,63,95,L
+3/17/22,North Carolina,ACC,Marquette,95,63,W
+3/19/22,Gonzaga,WCC,Memphis,82,78,W
+3/19/22,Memphis,Amer,Gonzaga,78,82,L
+3/20/22,Auburn,SEC,Miami FL,61,79,L
+3/20/22,Miami FL,ACC,Auburn,79,61,W
+3/27/22,Kansas,B12,Miami FL,76,50,W
+3/27/22,Miami FL,ACC,Kansas,50,76,L
+3/18/22,Miami FL,ACC,USC,68,66,W
+3/18/22,USC,P12,Miami FL,66,68,L
+3/20/22,Duke,ACC,Michigan St.,85,76,W
+3/20/22,Michigan St.,B10,Duke,76,85,L
+3/19/22,Michigan,B10,Tennessee,76,68,W
+3/19/22,Tennessee,SEC,Michigan,68,76,L
+3/24/22,Michigan,B10,Villanova,55,63,L
+3/24/22,Villanova,BE,Michigan,63,55,W
+3/22/22,Abilene Christian,WAC,Middle Tennessee,69,85,L
+3/22/22,Middle Tennessee,CUSA,Abilene Christian,85,69,W
+3/21/22,Boston University,Pat,Middle Tennessee,46,76,L
+3/21/22,Middle Tennessee,CUSA,Boston University,76,46,W
+3/23/22,Middle Tennessee,CUSA,UNC Wilmington,90,96,L
+3/23/22,UNC Wilmington,CAA,Middle Tennessee,96,90,W
+3/18/22,Montana St.,BSky,Texas Tech,62,97,L
+3/18/22,Texas Tech,B12,Montana St.,97,62,W
+3/17/22,Murray St.,OVC,San Francisco,92,87,W
+3/17/22,San Francisco,WCC,Murray St.,87,92,L
+3/19/22,Arkansas,SEC,New Mexico St.,53,48,W
+3/19/22,New Mexico St.,WAC,Arkansas,48,53,L
+3/19/22,Baylor,B12,North Carolina,86,93,L
+3/19/22,North Carolina,ACC,Baylor,93,86,W
+4/2/22,Duke,ACC,North Carolina,77,81,L
+4/2/22,North Carolina,ACC,Duke,81,77,W
+4/4/22,Kansas,B12,North Carolina,72,69,W
+4/4/22,North Carolina,ACC,Kansas,69,72,L
+3/25/22,North Carolina,ACC,UCLA,73,66,W
+3/25/22,UCLA,P12,North Carolina,66,73,L
+3/21/22,Northern Colorado,BSky,UNC Asheville,87,84,W
+3/21/22,UNC Asheville,BSth,Northern Colorado,84,87,L
+3/18/22,Alabama,SEC,Notre Dame,64,78,L
+3/18/22,Notre Dame,ACC,Alabama,78,64,W
+3/16/22,Notre Dame,ACC,Rutgers,89,87,W
+3/16/22,Rutgers,B10,Notre Dame,87,89,L
+3/20/22,Notre Dame,ACC,Texas Tech,53,59,L
+3/20/22,Texas Tech,B12,Notre Dame,59,53,W
+3/20/22,Ohio St.,B10,Villanova,61,71,L
+3/20/22,Villanova,BE,Ohio St.,71,61,W
+3/19/22,Ohio,MAC,Rice,65,64,W
+3/19/22,Rice,CUSA,Ohio,64,65,L
+3/25/22,Kansas,B12,Providence,66,61,W
+3/25/22,Providence,BE,Kansas,61,66,L
+3/17/22,Providence,BE,South Dakota St.,66,57,W
+3/17/22,South Dakota St.,Sum,Providence,57,66,L
+3/18/22,Purdue,B10,Yale,78,56,W
+3/18/22,Yale,Ivy,Purdue,56,78,L
+3/19/22,Providence,BE,Richmond,79,51,W
+3/19/22,Richmond,A10,Providence,51,79,L
+3/19/22,Saint Mary's,WCC,UCLA,56,72,L
+3/19/22,UCLA,P12,Saint Mary's,72,56,W
+3/19/22,Murray St.,OVC,Saint Peter's,60,70,L
+3/19/22,Saint Peter's,MAAC,Murray St.,70,60,W
+3/27/22,North Carolina,ACC,Saint Peter's,69,49,W
+3/27/22,Saint Peter's,MAAC,North Carolina,49,69,L
+3/25/22,Purdue,B10,Saint Peter's,64,67,L
+3/25/22,Saint Peter's,MAAC,Purdue,67,64,W
+3/18/22,Seton Hall,BE,TCU,42,69,L
+3/18/22,TCU,B12,Seton Hall,69,42,W
+3/29/22,St. Bonaventure,A10,Xavier,77,84,L
+3/29/22,Xavier,BE,St. Bonaventure,84,77,W
+3/19/22,Stephen F. Austin,WAC,UNC Asheville,68,80,L
+3/19/22,UNC Asheville,BSth,Stephen F. Austin,80,68,W
+3/20/22,Arizona,P12,TCU,85,80,W
+3/20/22,TCU,B12,Arizona,80,85,L
+3/15/22,Texas A&M Corpus Chris,Slnd,Texas Southern,67,76,L
+3/15/22,Texas Southern,SWAC,Texas A&M Corpus Chris,76,67,W
+3/17/22,Kansas,B12,Texas Southern,83,56,W
+3/17/22,Texas Southern,SWAC,Kansas,56,83,L
+3/24/22,Duke,ACC,Texas Tech,78,73,W
+3/24/22,Texas Tech,B12,Duke,73,78,L
+3/20/22,Purdue,B10,Texas,81,71,W
+3/20/22,Texas,B12,Purdue,71,81,L
+3/18/22,Texas,B12,Virginia Tech,81,73,W
+3/18/22,Virginia Tech,ACC,Texas,73,81,L
+3/22/22,Northern Colorado,BSky,UNC Wilmington,64,80,L
+3/22/22,UNC Wilmington,CAA,Northern Colorado,80,64,W
+3/20/22,UNC Wilmington,CAA,VMI,93,78,W
+3/20/22,VMI,SC,UNC Wilmington,78,93,L
+4/2/22,Kansas,B12,Villanova,81,65,W
+4/2/22,Villanova,BE,Kansas,65,81,L
+3/29/22,Texas A&M,SEC,Washington St.,72,56,W
+3/29/22,Washington St.,P12,Texas A&M,56,72,L
+3/18/22,Arizona,P12,Wright St.,87,70,W
+3/18/22,Wright St.,Horz,Arizona,70,87,L
+3/31/22,Texas A&M,SEC,Xavier,72,73,L
+3/31/22,Xavier,BE,Texas A&M,73,72,W
