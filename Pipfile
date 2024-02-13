@@ -16,6 +16,7 @@ waitress = "*"
 scipy = "*"
 beautifulsoup4 = "*"
 gunicorn = "*"
+ipykernel = "*"
 
 [dev-packages]
 
