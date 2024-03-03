@@ -18,6 +18,7 @@ beautifulsoup4 = "*"
 gunicorn = "*"
 ipykernel = "*"
 scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 pandas = "*"
